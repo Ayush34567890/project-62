@@ -1,0 +1,26 @@
+#ball {
+width:225 ;
+height: 225 ;
+
+}
+#myCarousel {
+
+background-color: red;
+
+}
+#myCarousel img {
+
+height: 300px;
+width: 300px;
+
+}
+body {
+
+    text-align: center;
+}
+.carousel-inner p{
+
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
